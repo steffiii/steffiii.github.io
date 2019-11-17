@@ -1,0 +1,7 @@
+main:
+  - title: "Publications"
+    url: /_pages/publications
+  - title: "Teaching"
+    url: /_pages/teaching
+#  - title: "About Me"
+#    url: /pages/about_me

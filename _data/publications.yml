@@ -1,0 +1,91 @@
+- title: "What kind of questions do developers ask on Stack Overflow? A comparison of automated approaches to classify posts into question categories"
+  authors: Stefanie Beyer, Christian Macho, Massimiliano Di Penta, and Martin Pinzger 
+  proceedings: Journal of Empirical Software Engineering (EMSE)
+  pages: 1-44
+  publisher: Springer
+  year: 2019
+  link:
+    url: /preprints/2019_questioncategories.pdf
+    display: pdf
+
+
+- title: "Automatically Classifying Posts into Question Categories on Stack Overflow"
+  authors: Stefanie Beyer, Christian Macho, Massimiliano Di Penta, and Martin Pinzger 
+  proceedings: In Proceedings of the International Conference on Program Comprehension (ICPC)
+  pages: pp. 211-221
+  publisher: IEEE
+  year: 2018
+  link:
+    url: /preprints/2018_automatically.pdf
+    display: pdf
+
+
+
+- title: "Grouping Android Tag Synonyms on Stack Overflow"
+  authors: Stefanie Beyer and Martin Pinzger
+  proceedings: In Proceedings of the International Conference on Mining Software Repositories (MSR)
+  pages: pp. 430-440
+  publisher: IEEE/ACM
+  year: 2016
+  link:
+    url: /preprints/2016_grouping.pdf
+    display: pdf
+
+
+- title: "Synonym Suggestion for Tags on Stack Overflow"
+  authors: Stefanie Beyer and Martin Pinzger
+  proceedings: In Proceedings of the International Conference on Program Comprehension (ICPC)
+  pages: pp. 94-103
+  publisher: IEEE
+  year: 2015
+  link:
+    url: /preprints/2015_tsst.pdf
+    display: pdf
+
+
+
+- title: "DIETs: Recommender Systems for Mobile API Developers"
+  authors: Stefanie Beyer and Martin Pinzger
+  proceedings: In Proceedings of the International Conference on Software Engineering (ICSE), Doctoral Symposium 
+  pages: pp. 859-862
+  publisher: IEEE
+  year: 2015
+  link:
+    url: /preprints/2015_diets.pdf
+    display: pdf
+
+  
+  
+- title: "Software Mining Studies: Goals, Approaches, Artifacts, and Replicability"
+  authors: Sven Amann, Stefanie Beyer, Katja Kevic, and Harald Gall 
+  proceedings: Software Engineering
+  pages: p. 121-158
+  publisher:  Springer International Publishing
+  year: 2015
+  link:
+    url: /preprints/2015_software.pdf
+    display: pdf
+
+
+
+- title: "A Manual Categorization of Android App Development Issues Using Stack Overflow Posts"
+  authors: Stefanie Beyer and Martin Pinzger
+  proceedings: In Proceedings of the International Conference on Software Maintenance and Evolution, Early Research Achievements (ICSME ERA)
+  pages: pp. 531-535
+  publisher: IEEE
+  year: 2014
+  link:
+    url: /preprints/2014_manual.pdf
+    display: pdf
+
+
+
+- title: "Towards Fully Automated Digital Alibis with Social Interaction" 
+  authors: Stefanie Beyer and Martin Mulazzani and Sebastian Schrittwieser and Markus Huber and Edgar R. Weippl
+  proceedings: In Digital Forensics
+  pages: pp 297-307
+  publisher: Springer
+  year: 2014
+  link:
+    url: /preprints/2014_alibi.pdf
+    display: pdf

@@ -1,3 +1,5 @@
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem "dinky"
+source "https://rubygems.org"
+gem "jekyll-remote-theme"
+#, "~> 3.5"
+gem "minimal-mistakes-jekyll"
+
