@@ -1,10 +1,8 @@
 ---
 layout: home
 author_profile: true
+title: Teaching
 ---
-
-## Teaching
-
 Currently, I am teaching the following courses:
 
 ### Winter term
