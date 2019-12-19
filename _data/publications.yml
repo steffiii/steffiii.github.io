@@ -19,6 +19,15 @@
     url: /preprints/2018_automatically.pdf
     display: pdf
 
+- title: "Analyzing the Relationships between Android API Classes and their References on Stack Overflow"
+  authors: Stefanie Beyer, Christian Macho, Massimiliano Di Penta, and Martin Pinzger 
+  proceedings: Technical Report
+  pages: pp. 1-32
+  publisher: University of Klagenfurt
+  year: 2017
+  link:
+    url: /preprints/2017_analyzing.pdf
+    display: pdf
 
 
 - title: "Grouping Android Tag Synonyms on Stack Overflow"
