@@ -1,3 +1,13 @@
+- title: "Leveraging Machine Learning for Software Redocumentation"
+  authors: Verena Geist, Michael Moser, Josef Pichler, Stefanie Beyer, and Martin Pinzger 
+  proceedings: In Proceedings of the  International Conference on Software Analysis, Evolution and Reengineering (SANER), Industry Track
+  pages: 622-626
+  publisher: IEEE
+  year: 2020
+  link:
+    url: /preprints/2020_redocumentation.pdf
+    display: pdf - preprint
+
 - title: "What kind of questions do developers ask on Stack Overflow? A comparison of automated approaches to classify posts into question categories"
   authors: Stefanie Beyer, Christian Macho, Massimiliano Di Penta, and Martin Pinzger 
   proceedings: Journal of Empirical Software Engineering (EMSE)
