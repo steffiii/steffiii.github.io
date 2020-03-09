@@ -1,0 +1,1036 @@
+fqn	smellName	severity
+android.content.pm.PackageInfo	Data Class	10
+android.content.pm.ApplicationInfo	Data Class	10
+android.content.pm.ProviderInfo	Data Class	8
+android.content.pm.ServiceInfo	Data Class	7
+android.content.pm.PackageStats	Data Class	5
+android.content.pm.InstrumentationInfo	Data Class	5
+android.media.CamcorderProfile	Data Class	5
+android.net.DhcpInfo	Data Class	3
+android.net.LocalSocketAddress	Data Class	1
+android.net.Credentials	Data Class	1
+android.renderscript.Float3	Data Class	5
+android.renderscript.Float4	Data Class	4
+android.renderscript.Type	Data Class	3
+android.renderscript.Int4	Data Class	1
+android.graphics.YuvImage	Data Class	1
+android.view.ViewStub	Data Class	1
+android.hardware.SensorEvent	Data Class	7
+android.hardware.Sensor	Data Class	2
+android.hardware.TriggerEvent	Data Class	1
+android.view.inputmethod.EditorInfo	Data Class	7
+android.view.inputmethod.ExtractedText	Data Class	4
+android.content.SyncStats	Data Class	3
+android.util.DisplayMetrics	Data Class	9
+android.mtp.MtpObjectInfo	Data Class	4
+android.mtp.MtpStorageInfo	Data Class	1
+android.mtp.MtpDeviceInfo	Data Class	1
+android.appwidget.AppWidgetProviderInfo	Data Class	7
+android.text.TextPaint	Data Class	7
+android.webkit.WebResourceResponse	Data Class	1
+android.net.wifi.ScanResult	Data Class	5
+android.drm.DrmEvent	Data Class	1
+android.drm.ProcessedData	Data Class	1
+android.drm.DrmRights	Data Class	1
+android.speech.tts.SynthesisRequest	Data Class	2
+android.bluetooth.BluetoothGattService	Data Class	2
+android.bluetooth.BluetoothGattDescriptor	Data Class	1
+android.gesture.GesturePoint	Data Class	2
+android.hardware.location.GeofenceHardwareRequest	Data Class	2
+android.security.KeyPairGeneratorSpec	Data Class	2
+android.preference.RingtonePreference	Data Class	1
+android.telephony.NeighboringCellInfo	Data Class	1
+android.net.nsd.NsdServiceInfo	Data Class	1
+android.print.pdf.PrintedPdfDocument	Data Class	1
+android.widget.SearchView	God Class	10
+android.widget.PopupWindow	God Class	10
+android.widget.AbsListView	God Class	10
+android.widget.ScrollView	God Class	10
+android.widget.ZoomButtonsController	God Class	10
+android.widget.ListView	God Class	10
+android.widget.ListPopupWindow	God Class	10
+android.widget.HorizontalScrollView	God Class	10
+android.widget.TextView	God Class	10
+android.widget.GridView	God Class	10
+android.widget.Switch	God Class	9
+android.widget.ExpandableListView	God Class	8
+android.widget.MediaController	God Class	7
+android.widget.GridLayout	God Class	5
+android.widget.Gallery	God Class	5
+android.widget.LinearLayout	God Class	5
+android.widget.RelativeLayout	God Class	5
+android.widget.FrameLayout	God Class	5
+android.widget.Spinner	God Class	5
+android.widget.VideoView	God Class	4
+android.widget.StackView	God Class	4
+android.widget.ProgressBar	God Class	4
+android.widget.TableRow	God Class	4
+android.widget.DatePicker	God Class	4
+android.widget.SlidingDrawer	God Class	4
+android.widget.TabHost	God Class	3
+android.widget.TimePicker	God Class	3
+android.widget.AbsSpinner	God Class	3
+android.widget.TabWidget	God Class	3
+android.widget.CalendarView	God Class	3
+android.widget.ImageView	God Class	2
+android.app.Instrumentation	God Class	10
+android.app.Activity	God Class	10
+android.app.WallpaperManager	God Class	7
+android.app.Dialog	God Class	6
+android.app.ActivityManager	God Class	4
+android.view.View	God Class	10
+android.view.ViewGroup	God Class	10
+android.view.Display	God Class	10
+android.view.SurfaceView	God Class	9
+android.view.Window	God Class	7
+android.view.ViewPropertyAnimator	God Class	7
+android.view.FocusFinder	God Class	4
+android.media.MediaRecorder	God Class	5
+android.media.AudioManager	God Class	4
+android.media.RemoteController	God Class	4
+android.media.ThumbnailUtils	God Class	4
+android.media.RemoteControlClient	God Class	3
+android.media.MediaPlayer	God Class	2
+android.text.Layout	God Class	7
+android.text.Html	God Class	3
+android.inputmethodservice.InputMethodService	God Class	10
+android.inputmethodservice.KeyboardView	God Class	10
+android.renderscript.Element	God Class	10
+android.renderscript.Allocation	God Class	9
+android.bluetooth.BluetoothGattServer	God Class	8
+android.bluetooth.BluetoothGatt	God Class	7
+android.graphics.drawable.NinePatchDrawable	God Class	7
+android.graphics.drawable.Drawable	God Class	4
+android.view.accessibility.AccessibilityEvent	God Class	10
+android.graphics.Canvas	God Class	6
+android.graphics.Paint	God Class	3
+android.graphics.Bitmap	God Class	3
+android.view.inputmethod.InputMethodManager	God Class	7
+android.view.inputmethod.InputMethodInfo	God Class	5
+android.content.IntentFilter	God Class	3
+android.content.ContentProvider	God Class	3
+android.content.Intent	God Class	3
+android.content.ContentResolver	God Class	2
+android.appwidget.AppWidgetHostView	God Class	8
+android.text.method.BaseMovementMethod	God Class	3
+android.text.method.ArrowKeyMovementMethod	God Class	3
+android.text.method.LinkMovementMethod	God Class	2
+android.transition.Transition	God Class	4
+android.transition.TransitionSet	God Class	3
+android.animation.ObjectAnimator	God Class	5
+android.animation.LayoutTransition	God Class	2
+android.preference.PreferenceActivity	God Class	5
+android.view.animation.AnimationSet	God Class	4
+android.database.sqlite.SQLiteDatabase	God Class	4
+android.service.dreams.DreamService	God Class	4
+android.text.util.Linkify	God Class	3
+android.text.format.DateUtils	God Class	3
+android.os.Handler	God Class	2
+android.hardware.Camera	God Class	2
+android.accessibilityservice.AccessibilityServiceInfo	God Class	2
+android.app.DialogFragment	Schizophrenic Class	1
+android.app.ListFragment	Schizophrenic Class	1
+android.widget.HorizontalScrollView	Schizophrenic Class	4
+android.widget.HeaderViewListAdapter	Schizophrenic Class	1
+android.widget.Switch	Schizophrenic Class	1
+android.net.TrafficStats	Schizophrenic Class	3
+android.hardware.usb.UsbDeviceConnection	Schizophrenic Class	3
+android.hardware.usb.UsbManager	Schizophrenic Class	3
+android.graphics.drawable.BitmapDrawable	Schizophrenic Class	4
+android.graphics.drawable.AnimationDrawable	Schizophrenic Class	1
+android.text.format.DateUtils	Schizophrenic Class	5
+android.database.AbstractWindowedCursor	Schizophrenic Class	3
+android.database.CursorWrapper	Schizophrenic Class	1
+android.view.inputmethod.BaseInputConnection	Schizophrenic Class	3
+android.view.inputmethod.InputMethodSession	Schizophrenic Class	1
+android.nfc.NfcAdapter	Schizophrenic Class	3
+android.bluetooth.BluetoothA2dp	Schizophrenic Class	3
+android.mtp.MtpDevice	Schizophrenic Class	3
+android.opengl.GLES10	Schizophrenic Class	1
+android.content.IntentSender	Schizophrenic Class	1
+android.drm.DrmManagerClient	Schizophrenic Class	1
+android.net.wifi.p2p.WifiP2pManager	Schizophrenic Class	1
+android.net.wifi.WifiEnterpriseConfig	Schizophrenic Class	1
+android.accessibilityservice.AccessibilityServiceInfo	Schizophrenic Class	1
+android.graphics.drawable.PictureDrawable	Tradition Breaker	5
+android.view.ViewStub	Tradition Breaker	1
+android.view.TextureView	Tradition Breaker	1
+android.text.style.ReplacementSpan	Tradition Breaker	1
+android.animation.TimeAnimator	Tradition Breaker	1
+android.content.res.Resources		
+android.graphics.drawable.LayerDrawable		
+android.view.ViewGroupOverlay		
+android.view.ViewOverlay		
+android.view.Menu		
+android.widget.ArrayAdapter		
+android.os.WorkSource		
+android.os.Bundle		
+android.content.DialogInterface		
+android.content.ContentValues		
+android.view.MotionEvent		
+android.location.LocationManager		
+android.location.Location		
+android.app.PendingIntent		
+android.media.SoundPool		
+android.util.Log		
+android.location.LocationListener		
+android.content.BroadcastReceiver		
+android.content.Context		
+android.content.ClipboardManager		
+android.content.ClipData		
+android.content.res.XmlResourceParser		
+android.view.ContextThemeWrapper		
+android.content.ContextWrapper		
+android.app.ListActivity		
+android.widget.AdapterView		
+android.app.AlertDialog		
+android.app.Notification		
+android.view.LayoutInflater		
+android.view.MenuInflater		
+android.net.wifi.WifiManager		
+android.database.MatrixCursor		
+android.app.Fragment		
+android.database.AbstractCursor		
+android.database.Cursor		
+android.media.MediaFormat		
+android.content.res.TypedArray		
+android.database.MergeCursor		
+android.database.sqlite.SQLiteOpenHelper		
+android.database.sqlite.SQLiteStatement		
+android.view.MenuItem		
+android.webkit.WebView		
+android.net.Uri		
+android.content.ContentProviderClient		
+android.content.SearchRecentSuggestionsProvider		
+android.provider.DocumentsProvider		
+android.graphics.Rect		
+android.telephony.SmsManager		
+android.telephony.gsm.SmsManager		
+android.view.KeyEvent		
+android.view.DragEvent		
+android.util.LongSparseArray		
+android.util.SparseLongArray		
+android.util.SparseIntArray		
+android.util.SparseArray		
+android.util.SparseBooleanArray		
+android.widget.Toast		
+android.app.NotificationManager		
+android.os.Message		
+android.graphics.BitmapFactory		
+android.content.ActivityNotFoundException		
+android.widget.Button		
+android.content.SharedPreferences		
+android.preference.PreferenceManager		
+android.widget.SimpleCursorAdapter		
+android.widget.CheckBox		
+android.widget.CompoundButton		
+android.view.SurfaceHolder		
+android.app.ActivityGroup		
+android.graphics.Point		
+android.content.res.Configuration		
+android.app.AlarmManager		
+android.app.Service		
+android.media.Image		
+android.location.Geocoder		
+android.content.Entity		
+android.graphics.drawable.ColorDrawable		
+android.app.Application		
+android.view.inputmethod.CompletionInfo		
+android.util.AttributeSet		
+android.widget.AutoCompleteTextView		
+android.content.res.AssetManager		
+android.text.format.DateFormat		
+android.net.ConnectivityManager		
+android.os.Vibrator		
+android.text.SpannableString		
+android.graphics.Camera		
+android.widget.EditText		
+android.widget.ImageButton		
+android.graphics.AvoidXfermode		
+android.view.GestureDetector		
+android.accounts.AccountManager		
+android.accounts.Account		
+android.graphics.drawable.ShapeDrawable		
+android.graphics.drawable.shapes.RectShape		
+android.net.sip.SipManager		
+android.webkit.WebIconDatabase		
+android.accounts.AccountManagerCallback		
+android.graphics.drawable.shapes.Shape		
+android.graphics.BitmapRegionDecoder		
+android.graphics.NinePatch		
+android.graphics.Picture		
+android.widget.TextSwitcher		
+android.widget.BaseAdapter		
+android.preference.EditTextPreference		
+android.widget.BaseExpandableListAdapter		
+android.text.ClipboardManager		
+android.widget.CursorTreeAdapter		
+android.view.accessibility.AccessibilityNodeInfo		
+android.view.ActionMode		
+android.util.LruCache		
+android.drm.DrmInfo		
+android.drm.DrmInfoRequest		
+android.util.ArrayMap		
+android.media.AudioTrack		
+android.appwidget.AppWidgetManager		
+android.widget.RemoteViews		
+android.content.ComponentName		
+android.view.animation.ScaleAnimation		
+android.view.animation.Animation		
+android.view.animation.Transformation		
+android.view.animation.AnimationUtils		
+android.hardware.SensorManager		
+android.telephony.SmsMessage		
+android.telephony.gsm.SmsMessage		
+android.renderscript.Matrix2f		
+android.renderscript.Matrix3f		
+android.os.Looper		
+android.appwidget.AppWidgetProvider		
+android.webkit.CookieSyncManager		
+android.database.sqlite.SQLiteQueryBuilder		
+android.util.EventLogTags		
+android.widget.Chronometer		
+android.os.SystemClock		
+android.widget.TableLayout		
+android.os.Environment		
+android.database.DatabaseUtils		
+android.graphics.PointF		
+android.os.MemoryFile		
+android.location.Address		
+android.os.Parcelable		
+android.os.Parcel		
+android.graphics.ColorMatrixColorFilter		
+android.content.CursorLoader		
+android.content.UriMatcher		
+android.os.PatternMatcher		
+android.content.pm.PackageManager		
+android.database.ContentObserver		
+android.renderscript.RenderScript		
+android.database.SQLException		
+android.preference.Preference		
+android.content.AbstractThreadedSyncAdapter		
+android.content.Loader		
+android.bluetooth.BluetoothAdapter		
+android.widget.ListAdapter		
+android.speech.tts.TextToSpeech		
+android.net.http.HttpResponseCache		
+android.opengl.GLSurfaceView		
+android.opengl.EGLConfig		
+android.util.Property		
+android.view.ContextMenu		
+android.webkit.WebViewClient		
+android.app.ProgressDialog		
+android.widget.PopupMenu		
+android.graphics.Matrix		
+android.app.DatePickerDialog		
+android.database.CursorJoiner		
+android.util.JsonReader		
+android.util.Base64OutputStream		
+android.net.NetworkInfo		
+android.app.TimePickerDialog		
+android.media.MediaMetadataEditor		
+android.database.CursorWindow		
+android.view.animation.TranslateAnimation		
+android.view.animation.AccelerateInterpolator		
+android.provider.Browser		
+android.os.ConditionVariable		
+android.view.animation.RotateAnimation		
+android.view.animation.DecelerateInterpolator		
+android.os.RemoteException		
+android.app.TabActivity		
+android.app.backup.BackupDataInputStream		
+android.telephony.TelephonyManager		
+android.telephony.PhoneStateListener		
+android.text.Editable		
+android.bluetooth.BluetoothSocket		
+android.bluetooth.BluetoothDevice		
+android.webkit.WebSettings		
+android.os.AsyncTask		
+android.accounts.AccountManagerFuture		
+android.widget.ViewAnimator		
+android.widget.AdapterViewAnimator		
+android.widget.SeekBar		
+android.preference.CheckBoxPreference		
+android.media.RingtoneManager		
+android.content.ContentUris		
+android.webkit.HttpAuthHandler		
+android.content.ServiceConnection		
+android.preference.PreferenceScreen		
+android.content.RestrictionEntry		
+android.view.ViewConfiguration		
+android.widget.AbsSeekBar		
+android.util.FloatMath		
+android.renderscript.FieldPacker		
+android.printservice.PrintDocument		
+android.content.res.AssetFileDescriptor		
+android.view.animation.AccelerateDecelerateInterpolator		
+android.app.FragmentTransaction		
+android.preference.DialogPreference		
+android.preference.ListPreference		
+android.animation.Keyframe		
+android.bluetooth.BluetoothGattCharacteristic		
+android.view.SubMenu		
+android.hardware.GeomagneticField		
+android.sax.Element		
+android.widget.ImageSwitcher		
+android.view.WindowManager		
+android.content.SyncResult		
+android.view.VelocityTracker		
+android.media.AudioRecord		
+android.os.StatFs		
+android.text.format.Formatter		
+android.location.Criteria		
+android.text.method.PasswordTransformationMethod		
+android.widget.SimpleAdapter		
+android.webkit.GeolocationPermissions		
+android.webkit.WebChromeClient		
+android.widget.ViewFlipper		
+android.widget.Checkable		
+android.widget.CheckedTextView		
+android.widget.ToggleButton		
+android.os.RemoteCallbackList		
+android.graphics.Path		
+android.content.ContentProviderOperation		
+android.app.ActionBar		
+android.app.LauncherActivity		
+android.util.TypedValue		
+android.opengl.GLES20		
+android.opengl.GLES11		
+android.os.CountDownTimer		
+android.os.PowerManager		
+android.widget.RadioButton		
+android.graphics.RectF		
+android.view.accessibility.AccessibilityRecord		
+android.preference.TwoStatePreference		
+android.os.IBinder		
+android.text.TextWatcher		
+android.view.animation.LayoutAnimationController		
+android.view.textservice.TextInfo		
+android.media.TimedText		
+android.sax.RootElement		
+android.sax.EndTextElementListener		
+android.util.Xml		
+android.text.format.Time		
+android.widget.AdapterViewFlipper		
+android.widget.CursorAdapter		
+android.app.ExpandableListActivity		
+android.graphics.drawable.shapes.RoundRectShape		
+android.media.AudioFormat		
+android.media.MediaMuxer		
+android.media.MediaCodec		
+android.net.http.AndroidHttpClient		
+android.graphics.Movie		
+android.widget.Filter		
+android.widget.SectionIndexer		
+android.os.Debug		
+android.graphics.Shader		
+android.graphics.LinearGradient		
+android.graphics.drawable.ScaleDrawable		
+android.graphics.drawable.ClipDrawable		
+android.graphics.drawable.RotateDrawable		
+android.graphics.drawable.InsetDrawable		
+android.graphics.drawable.TransitionDrawable		
+android.graphics.drawable.GradientDrawable		
+android.graphics.drawable.DrawableContainer		
+android.gesture.GestureOverlayView		
+android.widget.FilterQueryProvider		
+android.app.Presentation		
+android.webkit.JsResult		
+android.widget.RatingBar		
+android.service.notification.StatusBarNotification		
+android.app.WallpaperInfo		
+android.view.textservice.SpellCheckerInfo		
+android.app.admin.DeviceAdminInfo		
+android.text.Spannable		
+android.text.style.BackgroundColorSpan		
+android.text.util.Rfc822Token		
+android.hardware.usb.UsbEndpoint		
+android.graphics.drawable.StateListDrawable		
+android.opengl.GLU		
+android.widget.Adapter		
+android.inputmethodservice.Keyboard		
+android.view.ViewManager		
+android.graphics.Color		
+android.text.SpannableStringBuilder		
+android.text.style.ForegroundColorSpan		
+android.provider.Settings		
+android.content.pm.ComponentInfo		
+android.app.MediaRouteButton		
+android.net.ParseException		
+android.app.LocalActivityManager		
+android.graphics.drawable.PaintDrawable		
+android.view.Surface		
+android.widget.QuickContactBadge		
+android.widget.AnalogClock		
+android.widget.NumberPicker		
+android.graphics.PorterDuffXfermode		
+android.widget.SimpleExpandableListAdapter		
+android.text.Spanned		
+android.graphics.PorterDuffColorFilter		
+android.app.IntentService		
+android.widget.AbsoluteLayout		
+android.graphics.Region		
+android.nfc.tech.MifareUltralight		
+android.nfc.tech.IsoDep		
+android.nfc.tech.NdefFormatable		
+android.nfc.tech.NfcB		
+android.net.LocalSocket		
+android.media.MediaScannerConnection		
+android.nfc.tech.NfcF		
+android.nfc.tech.NfcA		
+android.nfc.tech.NfcV		
+android.nfc.tech.BasicTagTechnology		
+android.nfc.tech.Ndef		
+android.nfc.tech.NfcBarcode		
+android.nfc.tech.TagTechnology		
+android.nfc.tech.MifareClassic		
+android.webkit.CookieManager		
+android.location.LocationProvider		
+android.media.ExifInterface		
+android.hardware.SensorEventListener		
+android.view.OrientationListener		
+android.hardware.SensorListener		
+android.widget.ZoomControls		
+android.view.ViewParent		
+android.net.wifi.WifiConfiguration		
+android.text.method.DigitsKeyListener		
+android.opengl.GLUtils		
+android.net.MailTo		
+android.webkit.WebHistoryItem		
+android.widget.ExpandableListAdapter		
+android.util.Base64InputStream		
+android.text.style.SuggestionSpan		
+android.database.CharArrayBuffer		
+android.database.sqlite.SQLiteCursor		
+android.os.Binder		
+android.graphics.Typeface		
+android.content.pm.ResolveInfo		
+android.nfc.Tag		
+android.widget.WrapperListAdapter		
+android.app.KeyguardManager		
+android.content.ContentQueryMap		
+android.widget.SpinnerAdapter		
+android.media.ImageReader		
+android.database.sqlite.SQLiteException		
+android.widget.RadioGroup		
+android.graphics.drawable.Animatable		
+android.database.CrossProcessCursor		
+android.database.CrossProcessCursorWrapper		
+android.content.EntityIterator		
+android.os.ParcelFileDescriptor		
+android.view.textservice.SpellCheckerSession		
+android.view.InflateException		
+android.content.pm.PackageItemInfo		
+android.content.pm.LabeledIntent		
+android.widget.ZoomButton		
+android.media.audiofx.AudioEffect		
+android.media.audiofx.Visualizer		
+android.text.method.CharacterPickerDialog		
+android.text.style.URLSpan		
+android.text.style.ClickableSpan		
+android.os.Process		
+android.sax.StartElementListener		
+android.sax.EndElementListener		
+android.graphics.ColorFilter		
+android.text.style.AbsoluteSizeSpan		
+android.webkit.WebBackForwardList		
+android.animation.Animator		
+android.animation.AnimatorSet		
+android.animation.ValueAnimator		
+android.widget.Scroller		
+android.text.TextUtils		
+android.view.animation.LinearInterpolator		
+android.media.Ringtone		
+android.text.method.Touch		
+android.view.OrientationEventListener		
+android.webkit.URLUtil		
+android.text.StaticLayout		
+android.os.Build		
+android.view.ScaleGestureDetector		
+android.view.TouchDelegate		
+android.widget.EdgeEffect		
+android.database.DataSetObserver		
+android.net.wifi.WifiInfo		
+android.speech.tts.UtteranceProgressListener		
+android.renderscript.Script		
+android.app.DownloadManager		
+android.gesture.Gesture		
+android.gesture.GestureLibrary		
+android.net.sip.SipProfile		
+android.view.ViewTreeObserver		
+android.os.ResultReceiver		
+android.graphics.PathMeasure		
+android.graphics.SurfaceTexture		
+android.media.MediaActionSound		
+android.media.effect.Effect		
+android.text.method.TextKeyListener		
+android.media.JetPlayer		
+android.media.MediaExtractor		
+android.media.MediaMetadataRetriever		
+android.hardware.display.VirtualDisplay		
+android.media.MediaCrypto		
+android.media.effect.EffectContext		
+android.media.ToneGenerator		
+android.media.MediaDrm		
+android.net.rtp.RtpStream		
+android.hardware.usb.UsbRequest		
+android.print.PrintJob		
+android.speech.SpeechRecognizer		
+android.os.CancellationSignal		
+android.printservice.PrintJob		
+android.webkit.SslErrorHandler		
+android.graphics.ColorMatrix		
+android.widget.ViewSwitcher		
+android.util.TimingLogger		
+android.accounts.AccountAuthenticatorActivity		
+android.text.style.RelativeSizeSpan		
+android.util.JsonWriter		
+android.bluetooth.BluetoothServerSocket		
+android.database.sqlite.SQLiteClosable		
+android.telephony.gsm.GsmCellLocation		
+android.gesture.GestureStroke		
+android.view.InputEvent		
+android.hardware.usb.UsbDevice		
+android.graphics.drawable.shapes.OvalShape		
+android.text.style.StyleSpan		
+android.text.Selection		
+android.text.style.QuoteSpan		
+android.text.style.UnderlineSpan		
+android.text.style.StrikethroughSpan		
+android.content.res.ColorStateList		
+android.app.backup.BackupAgent		
+android.widget.ResourceCursorAdapter		
+android.app.backup.BackupDataOutput		
+android.app.backup.BackupDataInput		
+android.content.OperationApplicationException		
+android.text.AutoText		
+android.app.admin.DevicePolicyManager		
+android.app.FragmentManager		
+android.widget.SimpleCursorTreeAdapter		
+android.telephony.SignalStrength		
+android.webkit.MimeTypeMap		
+android.text.style.ImageSpan		
+android.telephony.CellIdentityCdma		
+android.net.Proxy		
+android.net.wifi.p2p.WifiP2pDeviceList		
+android.webkit.DownloadListener		
+android.net.sip.SipAudioCall		
+android.net.LocalServerSocket		
+android.content.ContentProviderResult		
+android.preference.PreferenceCategory		
+android.text.method.ScrollingMovementMethod		
+android.appwidget.AppWidgetHost		
+android.view.animation.AlphaAnimation		
+android.text.method.DateTimeKeyListener		
+android.text.method.TimeKeyListener		
+android.text.BidiFormatter		
+android.text.method.SingleLineTransformationMethod		
+android.text.method.HideReturnsTransformationMethod		
+android.text.method.DateKeyListener		
+android.text.method.DialerKeyListener		
+android.graphics.DashPathEffect		
+android.location.GpsSatellite		
+android.location.GpsStatus		
+android.content.pm.ActivityInfo		
+android.view.InputDevice		
+android.accounts.AuthenticatorDescription		
+android.database.sqlite.SQLiteCursorDriver		
+android.database.sqlite.SQLiteQuery		
+android.gesture.GestureLibraries		
+android.os.FileObserver		
+android.media.AsyncPlayer		
+android.preference.MultiSelectListPreference		
+android.os.DeadObjectException		
+android.gesture.Prediction		
+android.util.Base64		
+android.util.PrintWriterPrinter		
+android.util.StringBuilderPrinter		
+android.util.Printer		
+android.util.PrintStreamPrinter		
+android.util.LogPrinter		
+android.preference.PreferenceGroup		
+android.text.style.TextAppearanceSpan		
+android.app.LoaderManager		
+android.graphics.drawable.shapes.ArcShape		
+android.graphics.LightingColorFilter		
+android.widget.Filterable		
+android.os.HandlerThread		
+android.graphics.PaintFlagsDrawFilter		
+android.content.pm.Signature		
+android.nfc.NdefRecord		
+android.nfc.NdefMessage		
+android.widget.MultiAutoCompleteTextView		
+android.gesture.GestureStore		
+android.telephony.CellLocation		
+android.text.InputFilter		
+android.service.wallpaper.WallpaperService		
+android.app.NativeActivity		
+android.webkit.WebViewFragment		
+android.widget.AlphabetIndexer		
+android.graphics.BlurMaskFilter		
+android.opengl.Matrix		
+android.provider.Contacts		
+android.content.pm.ConfigurationInfo		
+android.graphics.PathEffect		
+android.webkit.WebStorage		
+android.util.Pair		
+android.app.AliasActivity		
+android.database.Observable		
+android.widget.DialerFilter		
+android.net.http.SslError		
+android.text.SpannableStringInternal		
+android.text.Annotation		
+android.graphics.drawable.shapes.PathShape		
+android.graphics.BitmapShader		
+android.database.sqlite.SQLiteProgram		
+android.os.MessageQueue		
+android.media.audiofx.EnvironmentalReverb		
+android.text.AlteredCharSequence		
+android.print.PrinterInfo		
+android.widget.OverScroller		
+android.os.Messenger		
+android.text.BoringLayout		
+android.transition.Scene		
+android.net.wifi.SupplicantState		
+android.telephony.ServiceState		
+android.view.Choreographer		
+android.inputmethodservice.ExtractEditText		
+android.database.sqlite.SQLiteConstraintException		
+android.os.OperationCanceledException		
+android.accounts.OperationCanceledException		
+android.accounts.AuthenticatorException		
+android.text.method.NumberKeyListener		
+android.app.backup.SharedPreferencesBackupHelper		
+android.app.backup.BackupManager		
+android.preference.PreferenceFragment		
+android.util.MonthDisplayHelper		
+android.renderscript.ScriptGroup		
+android.media.FaceDetector		
+android.text.method.ReplacementTransformationMethod		
+android.graphics.RadialGradient		
+android.provider.SearchRecentSuggestions		
+android.graphics.ImageFormat		
+android.text.style.DynamicDrawableSpan		
+android.view.WindowId		
+android.view.Gravity		
+android.graphics.drawable.LevelListDrawable		
+android.util.AndroidRuntimeException		
+android.text.DynamicLayout		
+android.nfc.FormatException		
+android.graphics.EmbossMaskFilter		
+android.graphics.MaskFilter		
+android.content.res.ObbInfo		
+android.os.StrictMode		
+android.os.Trace		
+android.database.DataSetObservable		
+android.bluetooth.BluetoothHealthAppConfiguration		
+android.util.Config		
+android.media.MediaCodecInfo		
+android.app.SearchManager		
+android.speech.RecognitionListener		
+android.renderscript.ScriptIntrinsicColorMatrix		
+android.media.audiofx.NoiseSuppressor		
+android.media.audiofx.AutomaticGainControl		
+android.media.audiofx.AcousticEchoCanceler		
+android.app.TaskStackBuilder		
+android.hardware.usb.UsbAccessory		
+android.drm.DrmSupportInfo		
+android.app.admin.DeviceAdminReceiver		
+android.bluetooth.BluetoothManager		
+android.app.UiModeManager		
+android.view.accessibility.AccessibilityManager		
+android.view.animation.AnticipateInterpolator		
+android.view.animation.BounceInterpolator		
+android.webkit.JsPromptResult		
+android.accessibilityservice.AccessibilityService		
+android.database.CursorIndexOutOfBoundsException		
+android.telephony.PhoneNumberUtils		
+android.view.inputmethod.InputConnection		
+android.telephony.cdma.CdmaCellLocation		
+android.text.style.TypefaceSpan		
+android.text.method.MovementMethod		
+android.app.backup.BackupAgentHelper		
+android.app.backup.FileBackupHelper		
+android.os.UserHandle		
+android.os.ParcelUuid		
+android.telephony.PhoneNumberFormattingTextWatcher		
+android.view.inputmethod.InputMethodSubtype		
+android.view.textservice.SpellCheckerSubtype		
+android.webkit.ConsoleMessage		
+android.os.IInterface		
+android.content.AsyncQueryHandler		
+android.widget.Space		
+android.animation.RectEvaluator		
+android.animation.FloatEvaluator		
+android.animation.IntEvaluator		
+android.animation.ArgbEvaluator		
+android.animation.TypeEvaluator		
+android.app.UiAutomation		
+android.text.style.CharacterStyle		
+android.content.SyncContext		
+android.net.UrlQuerySanitizer		
+android.opengl.EGLDisplay		
+android.opengl.EGLContext		
+android.opengl.EGLSurface		
+android.text.method.KeyListener		
+android.view.inputmethod.ExtractedTextRequest		
+android.animation.PropertyValuesHolder		
+android.app.ActivityOptions		
+android.accounts.AccountAuthenticatorResponse		
+android.animation.AnimatorListenerAdapter		
+android.view.accessibility.CaptioningManager		
+android.renderscript.Matrix4f		
+android.net.rtp.AudioStream		
+android.accounts.AbstractAccountAuthenticator		
+android.content.pm.PermissionInfo		
+android.hardware.usb.UsbInterface		
+android.webkit.ValueCallback		
+android.widget.TwoLineListItem		
+android.content.pm.FeatureInfo		
+android.net.rtp.AudioGroup		
+android.text.method.TransformationMethod		
+android.opengl.ETC1Util		
+android.provider.CallLog		
+android.graphics.CornerPathEffect		
+android.content.SyncStatusObserver		
+android.net.http.SslCertificate		
+android.nfc.NfcManager		
+android.app.SearchableInfo		
+android.graphics.Interpolator		
+android.speech.tts.SynthesisCallback		
+android.view.inputmethod.InputConnectionWrapper		
+android.media.MediaRouter		
+android.net.sip.SipRegistrationListener		
+android.net.sip.SipException		
+android.media.audiofx.PresetReverb		
+android.print.PrintJobInfo		
+android.os.UserManager		
+android.print.PrintDocumentInfo		
+android.net.SSLCertificateSocketFactory		
+android.net.SSLSessionCache		
+android.webkit.JavascriptInterface		
+android.view.ActionProvider		
+android.app.MediaRouteActionProvider		
+android.app.FragmentBreadCrumbs		
+android.content.SyncAdapterType		
+android.media.Rating		
+android.widget.DigitalClock		
+android.speech.tts.TextToSpeechService		
+android.speech.RecognitionService		
+android.printservice.PrinterDiscoverySession		
+android.content.ClipDescription		
+android.net.sip.SipSession		
+android.text.style.BulletSpan		
+android.graphics.pdf.PdfDocument		
+android.graphics.PixelFormat		
+android.view.accessibility.AccessibilityEventSource		
+android.view.KeyCharacterMap		
+android.util.AtomicFile		
+android.graphics.DrawFilter		
+android.graphics.RegionIterator		
+android.net.wifi.p2p.nsd.WifiP2pServiceRequest		
+android.content.AsyncTaskLoader		
+android.view.animation.OvershootInterpolator		
+android.opengl.EGL14		
+android.print.PageRange		
+android.opengl.ETC1		
+android.bluetooth.BluetoothHeadset		
+android.bluetooth.BluetoothProfile		
+android.view.inputmethod.InputMethod		
+android.media.MediaSyncEvent		
+android.content.pm.PermissionGroupInfo		
+android.graphics.SweepGradient		
+android.view.animation.GridLayoutAnimationController		
+android.util.AndroidException		
+android.view.inputmethod.InputBinding		
+android.text.style.MetricAffectingSpan		
+android.os.TokenWatcher		
+android.renderscript.ScriptIntrinsicBlur		
+android.renderscript.ScriptIntrinsicYuvToRGB		
+android.renderscript.ScriptIntrinsicConvolve3x3		
+android.renderscript.ScriptIntrinsicConvolve5x5		
+android.animation.AnimatorInflater		
+android.view.animation.Interpolator		
+android.view.animation.AnticipateOvershootInterpolator		
+android.util.JsonToken		
+android.database.DatabaseErrorHandler		
+android.webkit.WebViewDatabase		
+android.widget.ShareActionProvider		
+android.media.audiofx.Equalizer		
+android.widget.Advanceable		
+android.content.UriPermission		
+android.text.method.MetaKeyKeyListener		
+android.renderscript.Sampler		
+android.opengl.EGLObjectHandle		
+android.media.MediaCodecList		
+android.database.sqlite.SQLiteDatabaseCorruptException		
+android.util.EventLog		
+android.text.style.SuperscriptSpan		
+android.text.style.SubscriptSpan		
+android.nfc.cardemulation.CardEmulation		
+android.os.storage.StorageManager		
+android.database.sqlite.SQLiteTransactionListener		
+android.net.VpnService		
+android.graphics.Xfermode		
+android.text.SpannedString		
+android.webkit.DateSorter		
+android.util.MalformedJsonException		
+android.text.style.LineHeightSpan		
+android.graphics.ComposeShader		
+android.transition.TransitionManager		
+android.provider.MediaStore		
+android.nfc.NfcEvent		
+android.app.ApplicationErrorReport		
+android.security.KeyChain		
+android.security.KeyChainAliasCallback		
+android.net.wifi.p2p.WifiP2pDevice		
+android.net.wifi.p2p.WifiP2pConfig		
+android.renderscript.AllocationAdapter		
+android.annotation.SuppressLint		
+android.accounts.OnAccountsUpdateListener		
+android.text.style.LineBackgroundSpan		
+android.text.style.ScaleXSpan		
+android.speech.RecognizerIntent		
+android.telephony.CellSignalStrengthGsm		
+android.telephony.CellSignalStrengthWcdma		
+android.telephony.CellSignalStrengthLte		
+android.telephony.CellSignalStrengthCdma		
+android.telephony.CellSignalStrength		
+android.transition.TransitionInflater		
+android.widget.RemoteViewsService		
+android.graphics.PixelXorXfermode		
+android.net.wifi.p2p.nsd.WifiP2pUpnpServiceRequest		
+android.net.wifi.p2p.nsd.WifiP2pDnsSdServiceRequest		
+android.text.style.EasyEditSpan		
+android.print.PrintDocumentAdapter		
+android.nfc.TagLostException		
+android.graphics.LayerRasterizer		
+android.bluetooth.BluetoothClass		
+android.content.SyncInfo		
+android.text.style.ParagraphStyle		
+android.content.SyncRequest		
+android.content.pm.PathPermission		
+android.content.PeriodicSync		
+android.text.GetChars		
+android.widget.TextClock		
+android.graphics.PathDashPathEffect		
+android.graphics.ComposePathEffect		
+android.provider.Telephony		
+android.os.NetworkOnMainThreadException		
+android.bluetooth.BluetoothGattCallback		
+android.text.ParcelableSpan		
+android.media.audiofx.BassBoost		
+android.text.style.WrapTogetherSpan		
+android.renderscript.BaseObj		
+android.view.textservice.TextServicesManager		
+android.net.wifi.p2p.WifiP2pInfo		
+android.telephony.CellInfo		
+android.telephony.CellInfoLte		
+android.view.textservice.SuggestionsInfo		
+android.telephony.CellInfoCdma		
+android.telephony.CellIdentityGsm		
+android.view.inputmethod.CorrectionInfo		
+android.print.PrintAttributes		
+android.print.PrintJobId		
+android.telephony.CellInfoGsm		
+android.print.PrinterId		
+android.print.PrinterCapabilitiesInfo		
+android.view.textservice.SentenceSuggestionsInfo		
+android.telephony.CellInfoWcdma		
+android.net.wifi.p2p.WifiP2pGroup		
+android.telephony.CellIdentityWcdma		
+android.telephony.CellIdentityLte		
+android.net.wifi.p2p.nsd.WifiP2pServiceInfo		
+android.view.AbsSavedState		
+android.text.style.LocaleSpan		
+android.net.wifi.WpsInfo		
+android.preference.SwitchPreference		
+android.text.method.MultiTapKeyListener		
+android.text.method.QwertyKeyListener		
+android.opengl.Visibility		
+android.transition.Visibility		
+android.security.KeyChainException		
+android.hardware.input.InputManager		
+android.content.ComponentCallbacks		
+android.service.notification.NotificationListenerService		
+android.text.LoginFilter		
+android.view.ViewDebug		
+android.os.BadParcelableException		
+android.app.backup.RestoreObserver		
+android.database.sqlite.SQLiteFullException		
+android.text.style.RasterizerSpan		
+android.content.res.ObbScanner		
+android.webkit.WebSyncManager		
+android.content.ComponentCallbacks2		
+android.net.wifi.p2p.nsd.WifiP2pUpnpServiceInfo		
+android.net.nsd.NsdManager		
+android.renderscript.ScriptIntrinsic3DLUT		
+android.renderscript.ScriptIntrinsicBlend		
+android.renderscript.ScriptIntrinsicHistogram		
+android.renderscript.ScriptIntrinsicLUT		
+android.hardware.display.DisplayManager		
+android.opengl.GLException		
+android.os.storage.OnObbStateChangeListener		
+android.transition.Fade		
+android.util.TimeFormatException		
+android.bluetooth.BluetoothHealth		
+android.animation.TimeInterpolator		
+android.os.RecoverySystem		
+android.printservice.PrintService		
+android.annotation.TargetApi		
+android.view.animation.CycleInterpolator		
+android.bluetooth.BluetoothHealthCallback		
+android.content.MutableContextWrapper		
+android.net.wifi.p2p.nsd.WifiP2pDnsSdServiceInfo		
+android.text.InputType		
+android.media.effect.EffectFactory		
+android.provider.AlarmClock		
+android.renderscript.Float2		
+android.view.CollapsibleActionView		
+android.graphics.DiscretePathEffect		
+android.text.style.MaskFilterSpan		
+android.net.rtp.AudioCodec		
+android.database.sqlite.SQLiteDatabaseLockedException		
+android.nfc.cardemulation.HostApduService		
+android.util.StateSet		
+android.text.style.AlignmentSpan		
+android.print.PrintManager		
+android.media.audiofx.Virtualizer		
+android.hardware.ConsumerIrManager		
+android.provider.DocumentsContract		
+android.drm.DrmErrorEvent		
+android.net.sip.SipErrorCode		
+android.text.util.Rfc822Tokenizer		
+android.accounts.AccountsException		
+android.bluetooth.BluetoothGattServerCallback		
+android.renderscript.RSRuntimeException		
+android.text.SpanWatcher		
+android.app.backup.FullBackupDataOutput		
+android.media.CameraProfile		
+android.database.ContentObservable		
+android.database.sqlite.SQLiteCantOpenDatabaseException		
+android.text.style.LeadingMarginSpan		
+android.renderscript.ScriptC		
+android.media.audiofx.LoudnessEnhancer		
+android.app.AppOpsManager		
+android.accounts.NetworkErrorException		
+android.os.BatteryManager		
+android.transition.ChangeBounds		
+android.graphics.PorterDuff		
+android.database.sqlite.SQLiteDoneException		
+android.opengl.EGLExt		
+android.text.style.TabStopSpan		
+android.transition.TransitionValues		
+android.database.sqlite.SQLiteDiskIOException		
+android.security.KeyStoreParameter		
+android.os.DropBoxManager		
+android.opengl.GLES30		
+android.provider.CalendarContract		
+android.database.sqlite.SQLiteReadOnlyDatabaseException		
+android.transition.AutoTransition		
+android.app.backup.BackupHelper		
+android.inputmethodservice.AbstractInputMethodService		
+android.view.accessibility.AccessibilityNodeProvider		
+android.hardware.TriggerEventListener		
+android.net.http.X509TrustManagerExtensions		
+android.nfc.cardemulation.OffHostApduService		
