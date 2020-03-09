@@ -8,7 +8,7 @@ The papers on this page are included to ensure timely dissemination on a noncomm
 {% for publ in site.data.publications %}
 
   <strong>{{ publ.title }} </strong> {% if publ.link.url != %} (<a href="{{ publ.link.url }}">{{ publ.link.display }}</a>) {% endif %} <br /> 
-  {{ publ.authors }}. {{ publ.proceedings }}, {{ publ.pages }}, {{ publ.publisher }}, {{ publ.year }}.
+  {{ publ.authors }}. {{ publ.proceedings }}, {{ publ.pages }}, {{ publ.publisher }}, {{ publ.year }}{% if publ.data.url != %}, (<a href="{{ publ.data.url }}">{{ publ.data.display }}</a>){% endif %}.
 
 
 {% endfor %}
