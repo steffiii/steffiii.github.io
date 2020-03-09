@@ -3,7 +3,7 @@ main:
     url: /_pages/publications
   - title: "Teaching"
     url: /_pages/teaching
-  - title: "Data and Tools"
-    url: /_pages/data_and_tools
+#  - title: "Data and Tools"
+#    url: /_pages/data_and_tools
 #  - title: "About Me"
 #    url: /pages/about_me

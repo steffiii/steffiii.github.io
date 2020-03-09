@@ -17,7 +17,9 @@
   link:
     url: /preprints/2019_questioncategories.pdf
     display: pdf
-
+  data: 
+    url: https://figshare.com/articles/qc_replication_package_zip/8870123/1
+    display: supplementary material
 
 - title: "Automatically Classifying Posts into Question Categories on Stack Overflow"
   authors: Stefanie Beyer, Christian Macho, Massimiliano Di Penta, and Martin Pinzger 
@@ -28,6 +30,13 @@
   link:
     url: /preprints/2018_automatically.pdf
     display: pdf
+  data: 
+    url: https://github.com/icpc18submission34/icpc18submission34
+    display: supplementary material
+    
+    
+    
+    
 
 - title: "Analyzing the Relationships between Android API Classes and their References on Stack Overflow"
   authors: Stefanie Beyer, Christian Macho, Massimiliano Di Penta, and Martin Pinzger 
@@ -38,6 +47,9 @@
   link:
     url: /preprints/2017_analyzing.pdf
     display: pdf
+  data: 
+    url: /_pages/data/api2stacko/
+    display: supplementary material
 
 
 - title: "Grouping Android Tag Synonyms on Stack Overflow"
@@ -49,8 +61,10 @@
   link:
     url: /preprints/2016_grouping.pdf
     display: pdf
-
-
+  data:
+    url: https://bitbucket.org/stefanieb/tagsynonymtools
+    display: supplementary material
+    
 - title: "Synonym Suggestion for Tags on Stack Overflow"
   authors: Stefanie Beyer and Martin Pinzger
   proceedings: In Proceedings of the International Conference on Program Comprehension (ICPC)
@@ -60,6 +74,9 @@
   link:
     url: /preprints/2015_tsst.pdf
     display: pdf
+  data: 
+    url: /_pages/data/tsst
+    display: supplementary material
 
 
 
@@ -96,6 +113,9 @@
   link:
     url: /preprints/2014_manual.pdf
     display: pdf
+  data: 
+    url: https://bitbucket.org/stefanieb/classification_lucene
+    display: supplementary material
 
 
 
